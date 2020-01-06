@@ -1,0 +1,112 @@
+
+
+#UserHub-Container{
+
+}
+
+#UserHub-Title{
+
+}
+#LogOut-Button{
+
+}
+
+#AddExpense-Container{
+
+}
+
+#New-Expense-Description{
+
+}
+
+#New-Expense{
+
+}
+
+#Submit-Expense{
+
+}
+
+#SetBudget-Container{
+
+}
+
+#SetBudget-Form{
+
+}
+
+#New-Budget{
+
+}
+
+#Submit-Budget{
+
+}
+
+#Overview-Container{
+
+}
+
+
+#Total-Month-Budget{
+    width: 250px;
+}
+
+#Total-Month-Spending{
+    border-bottom: 1px solid gray;
+    width: 250px;
+}
+
+#Above{
+    color: red;
+}
+
+#Below{
+    color: green;
+}
+
+#Expense-List{
+
+}
+
+.Expense{
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+}
+
+.ExpenseDate-header{
+
+}
+
+.Expense-Description{
+    width: 1000px;
+}
+
+.Expense-Description::-moz-placeholder{
+    color: black;
+    font-weight: bold;
+}
+
+.Expense-Spending{
+    width:100px;
+}
+
+.Expense-Spending::-moz-placeholder{
+    color: black;
+    font-weight: bold;
+}
+
+.Expense-Period{
+    width: 180px;
+    margin: 0 5px 0 5px;
+}
+
+.Expense-Update{
+
+}
+
+.Expense-Delete{
+
+}
+

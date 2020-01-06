@@ -1,6 +1,5 @@
 import React from 'react';
 import LoginForm from './loginform';
-import RegisterForm from './registerform';
 import '../../style/loginpage.css';
 import '../../style/foundation.css';
 

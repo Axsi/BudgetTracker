@@ -16,7 +16,7 @@
     height: 450px;
 }
 
-#Login-Form{
+#Login-Form, #Register-Button-Container{
     width: 50%;
     margin: 0 auto 0 auto;
     text-align: center;
@@ -54,19 +54,28 @@
 #Form-SignIn{
     /*float: left;*/
     min-height: 22px;
-    min-width: 100px;
+    min-width: 153px;
+    width: 100%;
+    margin-bottom: 3px;
 }
 
 #Form-Register{
     /*float: right;*/
-    min-height: 18px;
-    min-width: 53px;
+    min-height: 22px;
+    min-width: 153px;
     cursor: pointer;
     text-decoration: none;
+    width: 100%;
 }
 
 #Register-Form-Container{
-
+    position: fixed;
+    left: 38%;
+    width: 500px;
+    height: 400px;
+    top: 30%;
+    background-color: #eaeaec;
+    border: 1px solid gray;
 }
 
 #Register-Form{
@@ -82,5 +91,5 @@
 }
 
 #Cancel-Button{
-
+    text-decoration: none;
 }
